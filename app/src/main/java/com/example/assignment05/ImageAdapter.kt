@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import androidx.recyclerview.widget.RecyclerView.Adapter
 import com.example.assignment05.ImageItem
 import com.example.assignment05.R
 
@@ -27,7 +26,7 @@ class ImageAdapter(_imageItems : Array<ImageItem>, _callback : (ImageItem)->Unit
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageItemViewHolder {
         return ImageItemViewHolder(
-            LayoutInflater.from(parent.context).inflate(R.layout.activity_display, parent, false)
+            LayoutInflater.from(parent.context).inflate(R.layout.activity_mian_display, parent, false)
         )
     }
 

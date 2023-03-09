@@ -20,8 +20,8 @@ class SelectionActivity : AppCompatActivity() {
 
         recyclerView = findViewById(R.id.recyclerView)
 
-        val displayImageView = findViewById<ImageView>(R.id.displayImageView)
-        val nameTextView = findViewById<TextView>(R.id.nameTextView)
+//        val displayImageView = findViewById<ImageView>(R.id.displayImageView)
+//        val nameTextView = findViewById<TextView>(R.id.nameTextView)
 
         val images = arrayOf(
             ImageItem(R.drawable.android_01, "Lake"),
