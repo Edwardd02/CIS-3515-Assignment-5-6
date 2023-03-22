@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Devoir 05</string>
+    <string name="image">image</string>
+    <string name="quit">quitter</string>
+    <string name="click_an_image_below_to_view">Cliquez sur une image ci-dessous pour l\'afficher</string>
+    <string name="lake">Lac</string>
+    <string name="daisies">Marguerites</string>
+    <string name="car_light">Éclairage de voiture</string>
+    <string name="rv_trailer">remorque de camping-car</string>
+    <string name="seaside_road">Route du bord de mer</string>
+    <string name="autumn_leaves">Feuilles d\'automne</string>
+    <string name="colorful_houses">Maisons colorées</string>
+    <string name="road">Route</string>
+    <string name="sunset">Coucher de soleil</string>
+    <string name="grass">Herbe</string>
+    <array name="names">
+        <item>@string/lake</item>
+        <item>@string/daisies</item>
+        <item>@string/car_light</item>
+        <item>@string/rv_trailer</item>
+        <item>@string/seaside_road</item>
+        <item>@string/autumn_leaves</item>
+        <item>@string/colorful_houses</item>
+        <item>@string/road</item>
+        <item>@string/sunset</item>
+        <item>@string/grass</item>
+    </array>
+</resources>

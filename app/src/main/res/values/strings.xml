@@ -3,4 +3,27 @@
     <string name="image">image</string>
     <string name="quit">quit</string>
     <string name="click_an_image_below_to_view">Click an image below to view</string>
+    <string name="lake">Lake</string>
+    <string name="daisies">Daisies</string>
+    <string name="car_light">Car light</string>
+    <string name="rv_trailer">RV trailer</string>
+    <string name="seaside_road">Seaside road</string>
+    <string name="autumn_leaves">Autumn leaves</string>
+    <string name="colorful_houses">Colorful houses</string>
+    <string name="road">Road</string>
+    <string name="sunset">Sunset</string>
+    <string name="grass">Grass</string>
+    <array name="names">
+        <item>@string/lake</item>
+        <item>@string/daisies</item>
+        <item>@string/car_light</item>
+        <item>@string/rv_trailer</item>
+        <item>@string/seaside_road</item>
+        <item>@string/autumn_leaves</item>
+        <item>@string/colorful_houses</item>
+        <item>@string/road</item>
+        <item>@string/sunset</item>
+        <item>@string/grass</item>
+    </array>
+
 </resources>

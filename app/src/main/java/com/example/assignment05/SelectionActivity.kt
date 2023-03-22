@@ -20,18 +20,19 @@ class SelectionActivity : AppCompatActivity() {
 
 //        val displayImageView = findViewById<ImageView>(R.id.displayImageView)
 //        val nameTextView = findViewById<TextView>(R.id.nameTextView)
+        val names = resources.getStringArray(R.array.names)
 
         val images = arrayOf(
-            ImageItem(R.drawable.android_01, "Lake"),
-            ImageItem(R.drawable.android_02, "Daisies"),
-            ImageItem(R.drawable.android_03, "Car light"),
-            ImageItem(R.drawable.android_04, "RV trailer"),
-            ImageItem(R.drawable.android_05, "Seaside road"),
-            ImageItem(R.drawable.android_06, "Autumn leaves"),
-            ImageItem(R.drawable.android_07, "Colorful houses"),
-            ImageItem(R.drawable.android_08, "Road"),
-            ImageItem(R.drawable.android_09, "Sunset"),
-            ImageItem(R.drawable.android_10, "Grass")
+            ImageItem(R.drawable.android_01, names[0]),
+            ImageItem(R.drawable.android_02, names[1]),
+            ImageItem(R.drawable.android_03, names[2]),
+            ImageItem(R.drawable.android_04, names[3]),
+            ImageItem(R.drawable.android_05, names[4]),
+            ImageItem(R.drawable.android_06, names[5]),
+            ImageItem(R.drawable.android_07, names[6]),
+            ImageItem(R.drawable.android_08, names[7]),
+            ImageItem(R.drawable.android_09, names[8]),
+            ImageItem(R.drawable.android_10, names[9])
 
         )
 
