@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="app_name">Devoir 05</string>
+    <string name="app_name">Projet 05</string>
     <string name="image">image</string>
     <string name="quit">quitter</string>
     <string name="click_an_image_below_to_view">Cliquez sur une image ci-dessous pour l\'afficher</string>
